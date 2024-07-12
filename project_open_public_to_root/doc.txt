@@ -1,0 +1,1 @@
+.htaccess and server.php file, just copy and paste in root directory 
